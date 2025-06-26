@@ -1,1 +1,75 @@
 /*  your css code here. If applicable */
+body {
+      margin: 0;
+      padding: 0;
+      font-family: ;
+      background-color: #cfd5cc;
+    }
+
+    .container {
+      width: 1100px;
+      margin: 0 auto;
+      padding: 20px;
+	
+    }
+
+    .imageContainer {
+      margin-bottom: 20px;
+    }
+
+    .imageContainer img {
+      width: 35%;
+      height: auto;
+    }
+
+    table {
+		background-color: #e0f2ff;
+      border-collapse: collapse;
+    }
+
+    td {
+      vertical-align: top;
+      padding: 15px;
+      border: 1px solid #999;
+      background-color: #f5f5f5;
+    }
+
+    .col-200 {
+      width: 200px;
+    }
+
+    .col-600 {
+      width: 600px;
+      text-align: center;
+    }
+
+    .col-600 p {
+      text-align: left;
+      font-size: 14px;
+      line-height: 1.6;
+    }
+
+    img.table-img {
+      width: 100%;
+      height: auto;
+      border-radius: 5px;
+    }
+
+    .bold {
+      font-weight: bold;
+    }
+
+    .objective {
+      font-weight: bold;
+      font-size: 16px;
+      margin-bottom: 10px;
+      text-align: center;
+    }
+
+    .learn-more {
+      display: inline-block;
+      margin-top: 5px;
+      font-size: 13px;
+      color: blue;
+      text-decoration: underline;
+    }
